@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnkurSingh1411
 - 👀 I’m interested in Full Stack
-- 🌱 I’m currently learning Nodejs
+- 🌱 I’m currently Working as Nodejs Developer
 - 💞️ I’m looking to collaborate on Mean/Mern Stack
 - 📫 How to reach me https://github.com/AnkurSingh1411
 
